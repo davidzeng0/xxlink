@@ -1,0 +1,3 @@
+[submodule "xxlink-proto"]
+	path = xxlink-proto
+	url = https://github.com/davidzeng0/xxlink-proto

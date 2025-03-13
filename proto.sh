@@ -1,0 +1,1 @@
+mkdir -p src/proto && protoc -I=xxlink-proto --cpp_out=src/proto xxlink-proto/*.proto xxlink-proto/commands/*.proto
